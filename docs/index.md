@@ -1,2 +1,2 @@
 # Open Gamedev Paraguay
-![webpage1](lgo.jpg)
+![webpage1](logo.png)
